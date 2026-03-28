@@ -1,0 +1,12 @@
+[15264:10132:0326/160841.025:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[15264:25300:0326/160841.055:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[15264:10132:0326/160841.068:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[15264:28644:0326/160847.993:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,5]
+[15264:10132:0326/160848.149:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[15264:10132:0326/160848.149:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[15264:10132:0326/160848.149:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[15264:10132:0326/160848.151:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[15264:28644:0326/160848.356:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[19180:9160:0326/161056.283:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[15264:10132:0326/170547.791:ERROR:device_event_log_impl.cc(196)] [17:05:47.526] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
+[15264:10132:0326/170734.869:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
